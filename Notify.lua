@@ -1,5 +1,3 @@
-print('Notification Lib: BoredStuff2 on GitHub')
-
 local isExistance = false
 
 local Notifyt = Instance.new("ScreenGui")
